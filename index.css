@@ -1,0 +1,190 @@
+body{
+background-color: rgb(49, 49, 49);
+}
+
+.text_MS{
+    margin-left: 100px;
+    width: 1270px;
+    margin-top: 50px;
+        background: linear-gradient(to right, rgb(252, 0, 0) , rgb(255, 196, 0));
+    border: solid 5px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+h1{
+    margin-left: 10px;
+}
+
+.logo_MS{
+    margin-left: 1180px;
+    margin-top: -77px;
+}
+
+.explication{
+    margin-left: 20px;
+    color: white;
+    margin-top: 50px;
+    width: 750px;
+    background: linear-gradient(to right, rgb(31, 31, 31) , rgb(38, 38, 38));
+    border: 5px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.avis_MS{ 
+    margin-left: 850px;
+    margin-top: -950px;
+}
+
+.general_ms{
+    margin-left: 850px;
+    margin-top: 45px;
+}
+
+.regle_ms{
+    margin-left: 1190px;
+    margin-top: -510px;
+}
+
+.lien{
+    display: flex;
+    justify-content: flex-end;
+margin-top: -1160px;
+width: 900px;
+padding: 10px;
+border-radius: 10px;
+margin-left: 300px;
+}
+
+button {
+    border-radius: 20px;
+    border-width: 0px;
+    box-shadow: none;
+    background-color: rgb(88, 88, 88);
+    color: black;
+    transition: 0.6s;
+    padding: 20px;
+    margin: 5px;
+    min-width: 120px;
+    text-shadow: none;
+    margin-right: 80px;
+}
+
+button:hover {
+    box-shadow: 0px 0px 15px rgb(168, 2, 2);
+    border-color: rgb(168, 154, 2);
+    border-width: 2px;
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+button span{
+    font-size: 16px;
+    letter-spacing: 2px;
+    transition: 0.6s;
+}
+
+button:hover span{
+    font-size: 10px;
+    letter-spacing: 4px;
+}
+
+button:active {
+    background-color: rgb(255, 0, 0);
+}
+
+.join{
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+.image_join{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.explication2{
+    margin-left: 20px;
+    color: white;
+    margin-top: 50px;
+    width: 1320px;
+    background: linear-gradient(to right, rgb(31, 31, 31) , rgb(38, 38, 38));
+    border: 5px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.lien_2{
+    display: flex;
+    justify-content: flex-end;
+margin-top: -1759px;
+width: 900px;
+padding: 10px;
+border-radius: 10px;
+margin-left: 300px;
+}
+
+.miniature{
+margin-top: 100px;
+margin-left: 100px;
+width: 1260px;
+background: #64595995;
+padding: 20px;
+border-radius: 10px;
+}
+
+.img {
+border-radius: 5px 5px 5px 5px;
+    border: solid 5px black;
+}
+
+img{
+    border-radius: 20px 20px 20px 20px;
+    border: solid 5px black;
+}
+
+.lien_3{
+    display: flex;
+    justify-content: flex-end;
+margin-top: -1345px;
+width: 900px;
+padding: 10px;
+border-radius: 10px;
+margin-left: 300px;
+}
+
+.embauche{
+    color: white;
+margin-top: 100px;
+margin-left: 100px;
+width: 1260px;
+background: linear-gradient(to right, rgb(31, 31, 31) , rgb(38, 38, 38));
+padding: 20px;
+border-radius: 10px ;
+}
+
+.portfolio{
+    color: white;
+    margin-top: 50px;
+    width: 750px;
+    background: linear-gradient(to right, rgb(31, 31, 31) , rgb(38, 38, 38));
+    border: 10px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.image_portfolio{
+    border-radius: 20px 20px 20px 20px;
+    border: solid 3px white;
+}
+
+.lien_4{
+    display: flex;
+    justify-content: flex-end;
+margin-top: -1518px;
+width: 900px;
+padding: 10px;
+border-radius: 10px;
+margin-left: 300px;
+}
+
+.commande{
+    margin-left: 100px;
+}
